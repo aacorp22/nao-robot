@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="workout_german-0039e9" version="0.0.0" installOnlyAtStartup="false">
+ <names>
+  <name lang="de_DE">trainieren</name>
+  <name lang="en_US">workout</name>
+ </names>
+ <supportedLanguages>
+  <language>de_DE</language>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+  <language>de_DE</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="behavior_1">
+   <userRequestable/>
+   <nature>interactive</nature>
+   <triggerSentences>
+    <sentence lang="de_DE">workout_german</sentence>
+    <sentence lang="de_DE">training</sentence>
+    <sentence lang="en_US">las uns</sentence>
+    <sentence lang="en_US">workout</sentence>
+   </triggerSentences>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
